@@ -1,0 +1,24 @@
+.slider .track {
+    -fx-background-color: #202020;
+    -fx-background-insets: 0;
+    -fx-background-radius: 0;
+    -fx-pref-height: 10px;
+}
+
+.slider .thumb {
+    -fx-pref-width: 10px;
+    -fx-pref-height: 10px;
+    -fx-background-color: white;
+    -fx-background-insets: 0;
+    -fx-background-radius: 0;
+}
+
+.slider .axis .axis-tick-mark, .slider .axis .axis-minor-tick-mark {
+    -fx-fill: null;
+    -fx-stroke: white;
+}
+
+.slider .axis {
+    -fx-tick-label-fill: white;
+    -fx-tick-label-font-size: 11px;
+}

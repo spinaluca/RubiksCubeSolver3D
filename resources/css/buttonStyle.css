@@ -1,0 +1,36 @@
+.button {
+    -fx-border-color: transparent;
+    -fx-border-width: 3;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 15px;
+    -fx-background-insets: 0, 1, 4, 5, 6;
+    -fx-background-color: #202020;
+    -fx-text-fill: white;
+}
+
+.button:hover {
+    -fx-border-color: #858585;
+}
+
+.menu-button {
+    -fx-border-color: transparent;
+    -fx-border-width: 3;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 15px;
+    -fx-background-insets: 0, 1, 4, 5, 6;
+    -fx-background-color: #202020;
+}
+
+.menu-button:hover {
+    -fx-border-color: #858585;
+}
+
+.menu-button > .label {
+    -fx-text-fill : white;
+    -fx-text-alignment: center;
+    -fx-padding: 0 0 0 0;
+}
+
+.menu-button > .label > .text {
+    -fx-text-alignment: center;
+}
