@@ -1,6 +1,6 @@
 # Rubik's Cube Solver 3D
 
-![Rubik's Cube Solver 3D logo](resources/images/icon.ico)
+<img src="resources/images/icon.png" alt="Rubik's Cube Solver 3D logo" width="40"/>
 
 _Latest release is 1.0.  This file last updated on 06 April 2025._
 
