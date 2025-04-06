@@ -15,6 +15,7 @@ The software supports full customization: users can modify the color of each cub
 ## Screenshots ##
 
 ![Screenshot](resources/images/screenshot.png)
+![Screenshot2](resources/images/screenshot2.png)
 
 ## License ##
 
